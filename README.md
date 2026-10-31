@@ -2,7 +2,7 @@
 
 ### ⚡ Quick Facts!
 
-- I am an austrian Software Engineer looking for employment
+- I am an austrian Software Engineer
 - I am a passionate developer who loves to dive deep into various aspects of Software Engineering, like *architecture*, *best coding practices*, etc.
 - I have an innate fascination with everything niche
 
